@@ -73,5 +73,5 @@ The successful implementation of this system yielded the following results:
 
 ### 🙋 Contact
 
-[**أضف هنا اسمك أو اسم الفريق/القسم المسؤول عن الدعم**]
-* **For questions or support, please contact:** [**أضف هنا عنوان بريد إلكتروني أو رابط تواصل**]
+[**Mohamed Shaaban**]
+* **For questions or support, please contact:** [**https://www.linkedin.com/in/mohamed-shaaban-b601bb350/?locale=en_US**]
